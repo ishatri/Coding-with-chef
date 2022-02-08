@@ -8,9 +8,12 @@ Here, ∣ denotes the bitwise OR operator and & denotes the bitwise AND operator
 It can be shown that a solution always exists for inputs satisfying the given constraints. If there are multiple solutions, you may print any of them.
 
 Input Format
+
 The first line contains an integer T, the number of test cases. The description of T test cases follows.
 Each test case consists of a single line containing one integer, X.
+
 Output Format
+
 For each test case, print on a new line three different space-separated integers A,B,C.
 Your output will be considered correct only if A,B,C are distinct non-negative integers not exceeding 109 that satisfy the equation given in the problem statement.
 If there are multiple solutions, you may print any of them.
@@ -39,4 +42,3 @@ Test case 2: (2∣3)&(3∣4)&(4∣2)=(3&7)&6=3&6=2.
 
 Test case 3: (6∣9)&(9∣13)&(13∣6)=(15&13)&15=13&15=13.
 
-Author:	
